@@ -1,0 +1,14 @@
+.harchi {
+    border: 3px solid red;
+    margin: 3rem;
+    padding: 1rem;
+  }
+  
+  body {
+    background: #ddd;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
